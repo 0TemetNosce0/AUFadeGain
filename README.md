@@ -1,0 +1,2 @@
+# AUFadeGain
+AU fade curve
